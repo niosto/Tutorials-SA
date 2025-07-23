@@ -11,7 +11,7 @@ public class main {
             if(file.createNewFile())
                 System.out.println(file.getName() + " created");
             else
-                System.out.println(file.getName() + " already exists, overwriting it");
+                System.out.println(file.getName() + " already exists, overwriting the content");
 
         } catch(IOException e){
             System.out.println("An error ocurred");
