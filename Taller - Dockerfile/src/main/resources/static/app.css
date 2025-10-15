@@ -1,0 +1,34 @@
+bg-secondary {
+    background-color: #2c3e50 !important;
+}
+
+.copyright {
+    background-color: #1a252f;
+}
+
+.bg-primary {
+    background-color: #16e3ac !important;
+}
+
+nav {
+    font-weight: 700;
+}
+
+.d-flex{
+    padding-bottom: 3%;
+
+}
+
+.mt-4{
+    padding-bottom: 5%;
+
+}
+
+.red-text {
+    color: #c81d1d;
+}
+
+.img-card {
+    height: 18vw;
+    object-fit: cover;
+}

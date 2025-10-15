@@ -1,0 +1,8 @@
+Para correr el proyecto:
+
+     -Se necesita java 24
+     -Se corrió en windows 11, desde la raíz en donde está este archivo
+     -Se usó el comando: 
+        ./mvnw spring-boot:run
+
+Hecho por: Nicolás Ospina Torres
